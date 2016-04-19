@@ -1,0 +1,1 @@
+The starting demo project is in folder 5-building-angularjs-nodejs-apps-mean-m5-exercise-files
